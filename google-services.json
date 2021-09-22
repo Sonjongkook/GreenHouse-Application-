@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309072576948",
+    "firebase_url": "https://jk-greenhouse-app-default-rtdb.firebaseio.com",
+    "project_id": "jk-greenhouse-app",
+    "storage_bucket": "jk-greenhouse-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309072576948:android:91e9c99edd232d5889b2e1",
+        "android_client_info": {
+          "package_name": "com.mypackage.jongkook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309072576948-g7ldjrib9jq3n77h16h1s9jbu4vum775.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7qCmOO6ojPJofz0GAtZ9RfiVpStkJjzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309072576948-g7ldjrib9jq3n77h16h1s9jbu4vum775.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
