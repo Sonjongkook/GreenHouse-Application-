@@ -1,3 +1,4 @@
+// Change this part to connect other database
 const firebaseConfig = {
     apiKey: "AIzaSyBjY6cmfd5E6N13pSSsuWk7zqfDjolw4KU",
     authDomain: "waterapplication-d0f3d.firebaseapp.com",
